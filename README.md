@@ -2,10 +2,9 @@
 
 A simple Flutter app that displays a personal profile card. This project is designed for beginners to practice building clean UIs using basic Flutter widgets and layouts. It's a great starting point for experimenting with widget composition, custom fonts, and color themes.
 
-## Screenshots
+## Screenshot of the project
 
-![App Screenshot](screenshots/mi_card_screenshot.png)  
-*(Replace this placeholder with your actual screenshot of the app running on a device or emulator.)*
+![App Screenshot](image.png)  
 
 ## Features
 
